@@ -1,6 +1,6 @@
 # MaxBandwidth Network Solver
 
-> This project was first made while I was in my second year. I have improved it since then by fixing errors, separating the code into files, and adding tests.
+> This project was first made while I was in my second year for my Data Structure and Algorithms course. I have improved it since then by fixing errors, separating the code into files, and adding tests.
 
 This program finds the maximum bandwidth that can travel from a source node
 to a destination node in an undirected network.
