@@ -1,0 +1,11 @@
+# Compiled executables and object files
+*.exe
+*.o
+*.obj
+
+# VS Code user-specific files
+.vscode/*.user.json
+
+# Common build directories
+build/
+bin/
